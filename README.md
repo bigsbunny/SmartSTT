@@ -2,9 +2,11 @@
 
 HONDA HACKATHON - Voice Based Services On Connected Car Platform
 
-TEAM 7 : Members
+## TEAM 7 : Members
 
-Ahesh Behera
-Bighnesh Sahoo
-Chidananda Sahoo
-Swayam Padhi
+```markdown
+1.Ahesh Behera
+2.Bighnesh Sahoo
+3.Chidananda Sahoo
+4.Swayam Padhi
+```
